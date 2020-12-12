@@ -53,11 +53,11 @@ Within this Project we have several sections which I will list below.
 
 - Products: the user can view loaded products, they can be edited, and new products can also be added.
 
--Inventary: you can see the stock of products and can be edited whenever you want.
+- Inventary: you can see the stock of products and can be edited whenever you want.
 
--Orders: you can see the amount of orders and the amount of sales of each product.
+- Orders: you can see the amount of orders and the amount of sales of each product.
 
--Cupons: here you can generate discount coupons and see the existing coupons.
+- Cupons: here you can generate discount coupons and see the existing coupons.
 
 - User profile: here you can modify user data, avatars, profile image, etc.
 
